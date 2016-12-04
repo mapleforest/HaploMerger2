@@ -9,4 +9,5 @@ HM2 also implements hierachical re-scaffolding on haploid assembly, corrections 
 Citation:
 
 [1] This paper describes the core algorithms and designs of HaploMerger.
+
 Shengfeng Huang, et al. HaploMerger: reconstructing allelic relationships for polymorphic diploid genome assemblies. Genome Res. 2012, 22(8):1581-1588.	 
