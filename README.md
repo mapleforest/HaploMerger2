@@ -10,4 +10,6 @@ Citation:
 
 [1] This paper describes the core algorithms and designs of HaploMerger.
 
-Shengfeng Huang, et al. HaploMerger: reconstructing allelic relationships for polymorphic diploid genome assemblies. Genome Res. 2012, 22(8):1581-1588.	 
+Shengfeng Huang, et al. HaploMerger: reconstructing allelic relationships for polymorphic diploid genome assemblies. Genome Res. 2012, 22(8):1581-1588.	
+
+You can download HaploMerger2 from here: https://github.com/mapleforest/HaploMerger2/releases/
