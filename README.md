@@ -6,10 +6,10 @@ HM2 is an effective, easy-to-use, automated pipeline. It is designed to untangle
 
 HM2 also implements hierachical re-scaffolding on haploid assembly, corrections for major misjoins and corrections for tandem mis-assemblies.	 
  
-Citation:
+# Citation
 
-[1] This paper describes the core algorithms and designs of HaploMerger.
+* Shengfeng Huang, et al. HaploMerger2: rebuilding both haploid sub-assemblies from a heterozygous animal diploid genome assembly. submitted.
 
-Shengfeng Huang, et al. HaploMerger: reconstructing allelic relationships for polymorphic diploid genome assemblies. Genome Res. 2012, 22(8):1581-1588.	
+* Shengfeng Huang, et al. HaploMerger: reconstructing allelic relationships for polymorphic diploid genome assemblies. Genome Res. 2012, 22(8):1581-1588.	
 
 You can download HaploMerger2 from here: https://github.com/mapleforest/HaploMerger2/releases/
