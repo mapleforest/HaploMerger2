@@ -12,7 +12,7 @@ HaploMerger2 is freely available for acadamic use: https://github.com/maplefores
  
 # Citation
 
-* Shengfeng Huang, et al. HaploMerger2: rebuilding both haploid sub-assemblies from a heterozygous animal diploid genome assembly. submitted.
+* Shengfeng Huang, et al. HaploMerger2: rebuilding both haploid sub-assemblies from a heterozygous animal diploid genome assembly. Bioinformatics. 2017.
 
 * Shengfeng Huang, et al. HaploMerger: reconstructing allelic relationships for polymorphic diploid genome assemblies. Genome Res. 2012, 22(8):1581-1588.	
 
